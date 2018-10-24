@@ -1,5 +1,6 @@
 {
   "name": "gaire.tech",
+  "homepage": "http://gaire.tech",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
